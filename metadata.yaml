@@ -1,0 +1,11 @@
+name: astrbot_plugin_csu_dorm_checkin
+author: Sweejumn
+repo: https://github.com/Sweejumn/astrbot_plugin_csu_dorm_checkin
+astrbot_version: ">=4.29.3"
+display_name: 中南大学住宿打卡
+short_desc: 单账号住宿打卡助手，支持官方扫码登录及真实定位
+desc: 使用 Windows Edge 和学校官方页面，在管理员私聊中检查状态、手动提交或设置定时。
+version: 0.2.1
+support_platforms:
+  - qq_official
+  - aiocqhttp
